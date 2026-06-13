@@ -1,4 +1,4 @@
 # firstrepo
 my first repository 
-Author Vinay K Gupta
+Author Vinay K Gupta(firstrepor)
 <br>
