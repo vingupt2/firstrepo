@@ -1,2 +1,7 @@
-vinay = "1"
-print (vinay)
+
+
+
+vinay = 1
+gupta = 2
+total = vinay + gupta
+print  (total)
